@@ -6,4 +6,6 @@ Simple Business Card
 
 Scrimba Extension Project
 
-Used React, Vite, and Tailwind
+Built with React, Vite, and Tailwind
+
+Published on Netlify
